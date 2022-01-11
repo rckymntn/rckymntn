@@ -1,1 +1,1 @@
-I'm a computer science student working on projects I think are fun in my free time. 
+![Behold, my stuff](https://i.kym-cdn.com/photos/images/newsfeed/001/839/037/8a4.png)

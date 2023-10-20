@@ -1,4 +1,1 @@
-- 365 days of commits in 2022 
-  - Self imposed challenge postmortem: 
-  - 1462 commits total across personal projects, school, and work
-  - Minimum 2 commits a day 
+
